@@ -1,0 +1,1 @@
+This example demonstrates a common error in SQL where the query uses functions or data types that are not supported by the database system being used. This can lead to errors during query execution. The solution involves either using the equivalent function supported by the target database or modifying the query to use a different approach. 
